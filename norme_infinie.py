@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# Author: Rémi DEMOL (github.com/remidemol)
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import stats
